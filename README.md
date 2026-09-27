@@ -42,7 +42,7 @@ ruby -v
 Terminalde proje klasörüne gir:
 
 ```bash
-cd ruby_downloads_organizer_demo
+cd ruby-downloads-organizer
 ```
 
 ## Tek komutla çalıştırma
