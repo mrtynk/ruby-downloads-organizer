@@ -1,3 +1,0 @@
-Bu klasördeki acı günlüğü ve 5 günlük kullanım kayıtları, gerçek gözlem kaydı iddiası taşımaz.
-Hocanın sunumda 5 günlük sürecin örneklenebileceğine dair yönlendirmesine uygun şekilde DEMO/SİMÜLASYON verisi olarak hazırlanmıştır.
-Programın gerçek log mekanizması çalışır; main.rb kullanıldıkça logs/usage.log dosyasına gerçek yeni satırlar eklenir.
